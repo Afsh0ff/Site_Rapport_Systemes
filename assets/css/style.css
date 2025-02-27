@@ -1,0 +1,225 @@
+
+/* Agrandir le logo */
+.navbar-brand img {
+    width: 60px;  /* Logo plus grand */
+    height: auto;
+}
+
+/* Alignement du menu à droite */
+.navbar-nav {
+    margin-left: 20px;  /* Réduire l'espace entre le logo et le menu */
+}
+
+/* Agrandir la taille des liens dans la navbar */
+.nav-link {
+    font-size: 2rem;  /* Augmenter la taille du texte des liens */
+    padding: 0.5rem 1rem;  /* Réduire légèrement le padding pour éviter un espacement trop large */
+}
+
+/* Espacement entre les éléments de la navbar */
+.navbar-nav .nav-item {
+    margin-right: 20px;  /* Espacement ajusté entre les onglets */
+}
+
+/* Ajouter un peu plus de hauteur aux éléments du menu */
+.navbar {
+    padding: 1rem;  /* Espacement général de la barre */
+}
+
+/* Agrandir la police du texte du menu déroulant */
+.dropdown-item {
+    font-size: 1rem;  /* Taille de la police dans les éléments du menu déroulant */
+}
+
+.presentation{
+    margin : 110px  110px 0 110px;
+}
+
+.presentation h1{
+    font-size : 30px;
+}
+
+.presentation p{
+    font-size : 25px;
+}
+
+.introduction_travail{
+    margin : 110px  110px 0 110px;
+}
+
+.introduction_travail h1{
+    font-size : 30px;
+}
+
+.introduction_travail p{
+    font-size : 25px;
+}
+
+.definition_virtualisation{
+    margin : 110px  110px 0 110px;
+}
+
+.definition_virtualisation h1{
+    font-size : 30px;
+}
+
+.definition_virtualisation p{
+    font-size : 25px;
+}
+
+.tableau_difference caption{
+    font-family : "Agency FB";
+    text-decoration: underline #87CEFA;
+    text-align : center;
+    caption-side: top;
+    font-size : 40px;
+}
+
+.tableau_difference th, td {
+    padding: 15px 15px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+.tableau_difference th {
+    background-color: #87CEFA;
+    color: white;
+}
+.tableau_difference tr {
+    background-color: #e6f2ff;
+}
+
+.tableau_difference {
+    margin : 100px;
+}
+
+.diagrammeGantt{
+    margin : 110px  110px 0 110px;
+}
+
+.diagrammeGantt h1{
+    font-size : 30px;
+}
+
+
+.type_virtualisation h1{
+    font-size : 35px;
+}
+
+.type_virtualisation{
+    margin : 110px  110px 0 110px;
+}
+
+.type_VirtualBox{
+    margin : 110px  110px 0 110px;
+}
+
+.type_VirtualBox h1{
+    font-size : 30px;
+}
+
+.type_VirtualBox p{
+    font-size : 25px;
+}
+
+.type_Workstation{
+    margin : 110px  110px 0 110px;
+}
+
+.type_Workstation h1{
+    font-size : 30px;
+}
+
+.type_Workstation p{
+    font-size : 25px;
+}
+
+.type_Stratus{
+    margin : 110px  110px 0 110px;
+}
+
+.type_Stratus h1{
+    font-size : 30px;
+}
+
+.type_Stratus p{
+    font-size : 25px;
+}
+
+.forme_sauvegarde{
+    margin : 110px  110px 0 110px;
+}
+
+.forme_sauvegarde h1{
+    font-size : 30px;
+}
+
+
+.forme_sauvegarde .stockage_NAS{
+    font-size : 27px;
+}
+
+.forme_sauvegarde .avantage_NAS{
+    font-size : 25px;
+    margin : 0 0 100px 50px;
+}
+
+.installation_mv{
+    margin : 110px  110px 0 110px;
+}
+
+.installation_mv h1{
+    font-size : 30px;
+}
+
+.installation_mv p{
+    font-size : 25px;
+}
+
+.configuration_mv{
+    margin : 110px  110px 0 110px;
+}
+
+.configuration_mv h1{
+    font-size : 30px;
+}
+
+.configuration_mv p{
+    font-size : 25px;
+}
+
+.creation_admin{
+    margin : 110px  110px 0 110px;
+}
+
+.creation_admin h1{
+    font-size : 30px;
+}
+
+.creation_admin p{
+    font-size : 25px;
+}
+
+.creation_utilisateurs{
+    margin : 110px  110px 0 110px;
+}
+
+.creation_utilisateurs h1{
+    font-size : 30px;
+}
+
+.creation_utilisateurs p{
+    font-size : 25px;
+}
+
+.prompt_personnalise{
+    margin : 110px  110px 0 110px;
+}
+
+.prompt_personnalise h1{
+    font-size : 30px;
+}
+
+.prompt_personnalise p{
+    font-size : 25px;
+}
